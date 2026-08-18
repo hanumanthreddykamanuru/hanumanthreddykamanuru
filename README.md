@@ -1,16 +1,18 @@
-## Hi there 👋
-[Instagram] (https://www.instagram.com/hanumanthreddykamanuru?igsh=MWU5YTlvMGt0Y2h4bw==)
-<!--
-**hanumanthreddykamanuru/hanumanthreddykamanuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hanumanth Reddy
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electronics and Communication Engineering student interested in Embedded Systems, Microcontrollers, IoT, and Programming.
+
+I am currently building projects using Embedded C and exploring different areas of Embedded Systems and IoT.
+
+## Projects
+
+### Smart Building Security, Access Control Monitoring System
+
+An embedded security system based on the LPC2129 ARM7 microcontroller using RFID, keypad authentication, PIR motion detection, RTC, EEPROM, LCD, and UART.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/hanumanth-reddy-kamanuru-954723304/)
+- [Instagram](https://www.instagram.com/hanumanthreddykamanuru/)
