@@ -15,4 +15,3 @@ An embedded security system based on the LPC2129 ARM7 microcontroller using RFID
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/hanumanth-reddy-kamanuru-954723304/)
-- [Instagram](https://www.instagram.com/hanumanthreddykamanuru/)
